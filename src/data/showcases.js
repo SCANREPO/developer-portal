@@ -701,6 +701,15 @@ const Showcases = [
     website: "https://seehype.com/",
     source: null,
     tags: ["nft"],
+     },
+  {
+    title: "Scantoken.io",
+    description:
+        "Powers REPO App's crowdsourced data mining and incentivizes participants with SCAN tokens that can be redeemed within the app for goods and services. .",
+    preview: require("./showcase/scantoken.png"),
+    website: "https://scantoken.io",
+    source: null,
+    tags: ["tokens", "nft"],
   },
 ];
 
